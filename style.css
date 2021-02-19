@@ -17,7 +17,7 @@ ul {
 }
 
 .main-container {
-    margin: 8em auto;
+    margin-top: 8em;
 }
 .main-container h1 {
     font-weight: 700;
@@ -38,7 +38,7 @@ ul {
     background-color: black;
 }
 .social-icons {
-    margin-top: 12em;
+    margin-top: 6em;
 }
 .image img{
     max-height: 100vh;
