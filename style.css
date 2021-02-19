@@ -1,7 +1,10 @@
 body {
     font-family: 'Lato', sans-serif;
 }
-
+.logo {
+    font-family: 'Alex Brush', cursive;
+    font-size: 2rem;
+}
 .nav-container .nav-item {
     color: black;
     font-weight: 600;
@@ -35,7 +38,7 @@ ul {
     background-color: black;
 }
 .social-icons {
-    margin-top: 15em;
+    margin-top: 12em;
 }
 .image img{
     max-height: 100vh;
