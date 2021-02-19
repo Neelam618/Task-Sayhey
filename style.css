@@ -1,3 +1,7 @@
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -24,7 +28,7 @@ li a:hover {
 .main-container {
     margin-top: 8em;
     justify-content: space-between;
-    height: 500px;
+    height: 64vh;
 }
 .main-container h1 {
     font-weight: 700;
