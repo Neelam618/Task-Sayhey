@@ -27,10 +27,12 @@ li a:hover {
 .main-container h1 {
     font-weight: 700;
     font-size: 4rem;
-    width: 300px;
+    width: 340px;
+    line-height: 1;
 }
 .main-container p {
     color: #414d61;
+    line-height: 2;
 }
 .main-container .btn {
     border: 3px solid black;
