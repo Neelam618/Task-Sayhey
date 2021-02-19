@@ -1,6 +1,9 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+.col {
+    height: 100vh;
+}
 .logo {
     font-family: 'Alex Brush', cursive;
     font-size: 2rem;
@@ -38,7 +41,7 @@ ul {
     background-color: black;
 }
 .social-icons {
-    margin-top: 6em;
+    margin-top: 5em;
 }
 .image img{
     max-height: 100vh;
