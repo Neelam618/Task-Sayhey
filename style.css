@@ -39,6 +39,7 @@ li a:hover {
 .main-container p {
     color: #414d61;
     line-height: 2;
+    width: 55%;
 }
 .main-container .btn {
     border: 3px solid black;
