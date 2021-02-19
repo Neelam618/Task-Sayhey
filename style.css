@@ -14,7 +14,7 @@ ul {
 }
 
 .main-container {
-    margin: 8em 0;
+    margin: 8em auto;
 }
 .main-container h1 {
     font-weight: 700;
