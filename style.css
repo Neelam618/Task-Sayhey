@@ -18,7 +18,9 @@ body {
 ul {
     list-style-type: none;
 }
-
+li a:hover {
+    opacity: 0.8;
+}
 .main-container {
     margin-top: 8em;
 }
@@ -49,4 +51,7 @@ ul {
 }
 .icon {
     color: black;
+}
+.social-icons a:hover{
+    opacity: 0.8;
 }
